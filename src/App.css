@@ -1,0 +1,77 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* .container {
+  display: inline-block;
+} */
+
+#container1 {
+  position: absolute;
+  width: 1440px;
+  height: 1056px;
+  left: 0px;
+  top: 0px;
+  background: #fafafa;
+}
+
+#container2 {
+  position: absolute;
+  width: 763px;
+  height: 1056px;
+  left: 690px;
+  top: 0px;
+  background: #023031;
+}
+
+form {
+  display: flex ;
+  flex-direction: column ;
+}
+
+.nomeDaCarta {
+    margin-bottom: 10px;
+}
+  
+.descricao {
+  margin-bottom: 10px;
+}
+  
+.atributo1 {
+  margin-bottom: 10px;
+}
+  
+.atributo2 {
+  margin-bottom: 10px;
+}
+  
+.atributo3 {
+  margin-bottom: 10px;
+}
+  
+.imagemDaCarta {
+  margin-bottom: 10px;
+}
+  
+.raridade {
+   margin-bottom: 10px;
+}
+  
+#cartaTryunfo {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+  
+#botaoSalvar {
+  margin-right: 80%;  
+}
+
+.carta-box {
+  width: 348px;
+  height: 529px;
+  left: 884px;
+  top: 293px;
+  background: #ffffff;
+  border-radius: 10px;
+}
